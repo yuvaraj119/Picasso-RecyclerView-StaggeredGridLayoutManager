@@ -39,7 +39,7 @@ Glide.with(mContext)
 * Glide https://github.com/bumptech/glide
 
 # Author
-Yuvaraj Kumar Yadav K > https://github.com/yuvaraj119
+Yuvaraj Kumar Yadav K :point_right: https://github.com/yuvaraj119
 
 # Disclaimer
 This is not an official Google project.
