@@ -19,16 +19,16 @@ public class MyGridAdapter extends RecyclerView.Adapter {
 
     private Context mContext;
     private List<ImageModel> imageModels = new ArrayList<>();
-    Picasso p;
+    //Picasso p;
 
     public MyGridAdapter(Context context) {
         mContext = context;
-        Picasso p = new Builder(mContext)
+       /* Picasso p = new Builder(mContext)
                 .memoryCache(new LruCache(24000))
                 .build();
         p.setIndicatorsEnabled(true);
         p.setLoggingEnabled(true);
-        Picasso.setSingletonInstance(p);
+        Picasso.setSingletonInstance(p);*/
     }
 
     @Override
