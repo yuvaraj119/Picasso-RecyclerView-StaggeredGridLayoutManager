@@ -1,5 +1,7 @@
 # Picasso/Glide-RecyclerView-StaggeredGridLayoutManager
 
+![Alt Text](https://github.com/yuvaraj119/Picasso-RecyclerView-StaggeredGridLayoutManager/blob/master/bloggif_571854a507ddc.gif)
+
 ##**Picasso + RecyclerView + StaggeredGridLayoutManager**
 
 Its the enhanced version of this project https://github.com/pohh/slotmachinepicasso were there was a problem with
