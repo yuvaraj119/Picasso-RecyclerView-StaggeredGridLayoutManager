@@ -1,9 +1,6 @@
 package com.recyclerviewstaggeredgridview;
 
 import com.squareup.picasso.*;
-import com.squareup.picasso.LruCache;
-import com.squareup.picasso.Picasso.*;
-
 import android.content.*;
 import android.support.v7.widget.*;
 import android.support.v7.widget.RecyclerView.*;
