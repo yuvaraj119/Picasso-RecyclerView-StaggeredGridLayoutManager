@@ -1,4 +1,5 @@
-# Picasso-RecyclerView-StaggeredGridLayoutManager
+# Picasso/Glide-RecyclerView-StaggeredGridLayoutManager
+
 ##**Picasso + RecyclerView + StaggeredGridLayoutManager**
 
 Its the enhanced version of this project https://github.com/pohh/slotmachinepicasso were there was a problem with
