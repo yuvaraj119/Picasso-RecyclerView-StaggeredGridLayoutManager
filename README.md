@@ -45,8 +45,7 @@ Glide.with(mContext)
 # Author
 Yuvaraj Kumar Yadav K :point_right: https://github.com/yuvaraj119
 
-Blog :point_right: http://yuvarockers.blogspot.in/ , https://yuvarockers.wordpress.com/
-
+Blog :point_right: http://yuvarockers.blogspot.in/
 # Disclaimer
 This is not an official Google project.
 
