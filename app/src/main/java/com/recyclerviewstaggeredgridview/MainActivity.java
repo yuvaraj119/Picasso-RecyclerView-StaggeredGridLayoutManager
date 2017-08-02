@@ -22,6 +22,7 @@ public class MainActivity extends ActionBarActivity {
 		setContentView(R.layout.activity_main);
 		adapter = new MyGridAdapter(this);
 		gridView = (RecyclerView) findViewById(R.id.grid_view);
+		gridView.setHasFixedSize(true);
 		StaggeredGridLayoutManager sglm = new StaggeredGridLayoutManager(3, StaggeredGridLayoutManager.VERTICAL);
 		gridView.setLayoutManager(sglm);
 		gridView.setAdapter(adapter);
