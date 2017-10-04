@@ -1,5 +1,7 @@
 # Picasso/Glide-RecyclerView-StaggeredGridLayoutManager
 
+<a href="https://play.google.com/store/apps/details?id=com.recyclerviewstaggeredgridview"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="72"></a>
+
 ![Alt Text](https://github.com/yuvaraj119/Picasso-RecyclerView-StaggeredGridLayoutManager/blob/master/bloggif_571854a507ddc.gif)
 
 ##**Picasso + RecyclerView + StaggeredGridLayoutManager**
@@ -46,6 +48,7 @@ Glide.with(mContext)
 Yuvaraj Kumar Yadav K :point_right: https://github.com/yuvaraj119
 
 Blog :point_right: http://yuvarockers.blogspot.in/
+
 # Disclaimer
 This is not an official Google project.
 
