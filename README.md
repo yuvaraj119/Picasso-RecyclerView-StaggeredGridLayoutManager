@@ -1,7 +1,5 @@
 # Picasso/Glide-RecyclerView-StaggeredGridLayoutManager
 
-<a href="https://play.google.com/store/apps/details?id=com.recyclerviewstaggeredgridview"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="72"></a>
-
 ![Alt Text](https://github.com/yuvaraj119/Picasso-RecyclerView-StaggeredGridLayoutManager/blob/master/bloggif_571854a507ddc.gif)
 
 ##**Picasso + RecyclerView + StaggeredGridLayoutManager**
